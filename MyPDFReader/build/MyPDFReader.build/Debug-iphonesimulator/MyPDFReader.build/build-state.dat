@@ -1,0 +1,1327 @@
+TMyPDFReader
+v7
+r0
+t373449307.456842
+cCheck dependencies
+cProcessInfoPlistFile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Info.plist MyPDFReader-Info.plist
+cCompileXIB /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/CET.pdf doc/CET.pdf
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/CET副本 doc/CET副本
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/test.pdf doc/test.pdf
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/TestPage.pdf doc/TestPage.pdf
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/历年公务员考试试题真题.pdf doc/历年公务员考试试题真题.pdf
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-057.png Graphics/AppIcon-057.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-072.png Graphics/AppIcon-072.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-114.png Graphics/AppIcon-114.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email.png Graphics/Reader-Email.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email@2x.png Graphics/Reader-Email@2x.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N.png Graphics/Reader-Mark-N.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N@2x.png Graphics/Reader-Mark-N@2x.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y.png Graphics/Reader-Mark-Y.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y@2x.png Graphics/Reader-Mark-Y@2x.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print.png Graphics/Reader-Print.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print@2x.png Graphics/Reader-Print@2x.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs.png Graphics/Reader-Thumbs.png
+cCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs@2x.png Graphics/Reader-Thumbs@2x.png
+cProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch.gch MyPDFReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/main.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReaderAppDelegate.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/RootViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/fileManager.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MBProgressHUD.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/CGPDFDocument.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderConstants.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentPage.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentTile.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderDocument.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainPagebar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainToolbar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderScrollView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbCache.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbFetch.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbQueue.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRender.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRequest.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbsView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsMainToolbar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader normal i386
+cGenerateDSYMFile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app.dSYM /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader
+cTouch /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ImageIO.framework/Headers/ImageIO.h
+c000000004CC122640000000000000186
+t1287725668
+s390
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000004CC1226B000000000010AFE0
+t1287725675
+s1093600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/fcntl.h
+c000000004CB3E48600000000000003EA
+t1286857862
+s1002
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.h
+c000000005007C3E90000000000003372
+t1342686185
+s13170
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m
+c000000005007C3E900000000000059CD
+t1342686185
+s22989
+i"MBProgressHUD.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.h
+c000000005015FE7F00000000000001CC
+t1343618687
+s460
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m
+c000000005015FE7F0000000000000AA4
+t1343618687
+s2724
+i"MyPDFReaderAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.h
+c00000000509222630000000000000191
+t1351754339
+s401
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+i"ReaderViewController.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m
+c000000005015FF860000000000001CC5
+t1343618950
+s7365
+i"RootViewController.h"
+i"fileManager.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.h
+c0000000050123B0D000000000000010E
+t1343372045
+s270
+i<Foundation/Foundation.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m
+c0000000050126B4C0000000000000B44
+t1343384396
+s2884
+i"fileManager.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-057.png
+c000000004E7043FC00000000000012B3
+t1315980284
+s4787
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-072.png
+c000000004E7043FC0000000000001D8C
+t1315980284
+s7564
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-114.png
+c000000004E7043FC000000000000439D
+t1315980284
+s17309
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email.png
+c000000004E7043FC000000000000015C
+t1315980284
+s348
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email@2x.png
+c000000004E7043FC0000000000000243
+t1315980284
+s579
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N.png
+c000000004E7043FC00000000000000C6
+t1315980284
+s198
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N@2x.png
+c000000004E7043FC00000000000000F3
+t1315980284
+s243
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y.png
+c000000004E7043FC00000000000000A5
+t1315980284
+s165
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y@2x.png
+c000000004E7043FC00000000000000C9
+t1315980284
+s201
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print.png
+c000000004E7043FC0000000000000127
+t1315980284
+s295
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print@2x.png
+c000000004E7043FC00000000000001DD
+t1315980284
+s477
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs.png
+c000000004E7043FC00000000000000E4
+t1315980284
+s228
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs@2x.png
+c000000004E7043FC0000000000000137
+t1315980284
+s311
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib
+c000000005015FE7F0000000000006004
+t1343618687
+s24580
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MyPDFReader_Prefix.pch
+c000000005015FE7F0000000000000148
+t1343618687
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib
+c000000005015FE7F0000000000004456
+t1343618687
+s17494
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.h
+c000000004E7043FC00000000000002F6
+t1315980284
+s758
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m
+c000000004E7043FC0000000000000D13
+t1315980284
+s3347
+i"CGPDFDocument.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.h
+c00000000501603170000000000000339
+t1343619863
+s825
+i<Foundation/Foundation.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m
+c000000004E7043FC0000000000000284
+t1315980284
+s644
+i"ReaderConstants.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.h
+c000000004E7043FC0000000000000579
+t1315980284
+s1401
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m
+c000000004E7043FC00000000000040A1
+t1315980284
+s16545
+i"ReaderContentPage.h"
+i"ReaderContentTile.h"
+i"CGPDFDocument.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.h
+c000000004E7043FC0000000000000284
+t1315980284
+s644
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m
+c000000004E7043FC00000000000006CF
+t1315980284
+s1743
+i"ReaderContentTile.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.h
+c000000004E7043FC0000000000000655
+t1315980284
+s1621
+i<UIKit/UIKit.h>
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m
+c000000004E7043FC0000000000002545
+t1315980284
+s9541
+i"ReaderConstants.h"
+i"ReaderContentView.h"
+i"ReaderContentPage.h"
+i"ReaderScrollView.h"
+i"ReaderThumbCache.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.h
+c000000004E7043FC0000000000000678
+t1315980284
+s1656
+i<Foundation/Foundation.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m
+c000000004E7043FC0000000000002344
+t1315980284
+s9028
+i"ReaderDocument.h"
+i"CGPDFDocument.h"
+i<fcntl.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.h
+c000000004E7043FC00000000000006F4
+t1315980284
+s1780
+i<UIKit/UIKit.h>
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m
+c000000004E7043FC0000000000004814
+t1315980284
+s18452
+i"ReaderMainPagebar.h"
+i"ReaderThumbCache.h"
+i"ReaderDocument.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.h
+c000000004E7043FC0000000000000610
+t1315980284
+s1552
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m
+c000000004E7043FC0000000000001EF7
+t1315980284
+s7927
+i"ReaderConstants.h"
+i"ReaderMainToolbar.h"
+i<MessageUI/MessageUI.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.h
+c000000004E7043FC0000000000000260
+t1315980284
+s608
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m
+c000000004E7043FC000000000000057E
+t1315980284
+s1406
+i"ReaderScrollView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.h
+c000000004E7043FC0000000000000443
+t1315980284
+s1091
+i<UIKit/UIKit.h>
+i"ReaderThumbRequest.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m
+c000000004E7043FC00000000000012BF
+t1315980284
+s4799
+i"ReaderThumbCache.h"
+i"ReaderThumbQueue.h"
+i"ReaderThumbFetch.h"
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.h
+c000000004E7043FC0000000000000300
+t1315980284
+s768
+i<Foundation/Foundation.h>
+i"ReaderThumbQueue.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m
+c000000004E7043FC0000000000000EA3
+t1315980284
+s3747
+i"ReaderThumbFetch.h"
+i"ReaderThumbRender.h"
+i"ReaderThumbCache.h"
+i"ReaderThumbView.h"
+i<ImageIO/ImageIO.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.h
+c000000004E7043FC0000000000000480
+t1315980284
+s1152
+i<Foundation/Foundation.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m
+c000000004E7043FC0000000000000CB6
+t1315980284
+s3254
+i"ReaderThumbQueue.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.h
+c000000004E7043FC0000000000000303
+t1315980284
+s771
+i<Foundation/Foundation.h>
+i"ReaderThumbQueue.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m
+c000000004E7043FC00000000000018C9
+t1315980284
+s6345
+i"ReaderThumbRender.h"
+i"ReaderThumbCache.h"
+i"ReaderThumbView.h"
+i"CGPDFDocument.h"
+i<ImageIO/ImageIO.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.h
+c000000004E7043FC00000000000006E3
+t1315980284
+s1763
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m
+c000000004E7043FC00000000000009CA
+t1315980284
+s2506
+i"ReaderThumbRequest.h"
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.h
+c000000004E7043FC0000000000000374
+t1315980284
+s884
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m
+c000000004E7043FC000000000000081E
+t1315980284
+s2078
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.h
+c000000004E7043FC0000000000000743
+t1315980284
+s1859
+i<UIKit/UIKit.h>
+i"ReaderThumbView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m
+c000000004E7043FC000000000000342F
+t1315980284
+s13359
+i"ReaderThumbsView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.h
+c000000004E7043FC00000000000006C1
+t1315980284
+s1729
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i"ReaderDocument.h"
+i"ReaderContentView.h"
+i"ReaderMainToolbar.h"
+i"ReaderMainPagebar.h"
+i"ThumbsViewController.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m
+c00000000509223760000000000006DE2
+t1351754614
+s28130
+i"ReaderConstants.h"
+i"ReaderViewController.h"
+i"ReaderScrollView.h"
+i"ReaderThumbCache.h"
+i"ReaderThumbQueue.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.h
+c000000004E7043FC0000000000000463
+t1315980284
+s1123
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m
+c000000004E7043FC0000000000001211
+t1315980284
+s4625
+i"ReaderConstants.h"
+i"ThumbsMainToolbar.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.h
+c000000004E7043FC00000000000006CE
+t1315980284
+s1742
+i<UIKit/UIKit.h>
+i"ThumbsMainToolbar.h"
+i"ReaderThumbsView.h"
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m
+c000000004E7043FC00000000000033AB
+t1315980284
+s13227
+i"ReaderConstants.h"
+i"ThumbsViewController.h"
+i"ReaderThumbRequest.h"
+i"ReaderThumbCache.h"
+i"ReaderDocument.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app
+t1351756507
+s850
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app.dSYM
+t1351756507
+s102
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-057.png
+t1351754234
+s4787
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-072.png
+t1351754234
+s7564
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-114.png
+t1351754234
+s17309
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/CET.pdf
+t1351754234
+s339096
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/CET副本
+t1351754234
+s339096
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Info.plist
+t1351754234
+s607
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MainWindow.nib
+t1351754234
+s1513
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader
+t1351756507
+s277444
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/PkgInfo
+t1351754234
+s8
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email.png
+t1351754234
+s348
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email@2x.png
+t1351754234
+s579
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N.png
+t1351754234
+s198
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N@2x.png
+t1351754234
+s243
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y.png
+t1351754234
+s165
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y@2x.png
+t1351754234
+s201
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print.png
+t1351754234
+s295
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print@2x.png
+t1351754234
+s477
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs.png
+t1351754234
+s228
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs@2x.png
+t1351754234
+s311
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/RootViewController.nib
+t1351754234
+s979
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/TestPage.pdf
+t1351754234
+s56182
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/test.pdf
+t1351754234
+s10132
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/历年公务员考试试题真题.pdf
+t1351754234
+s923510
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/CGPDFDocument.o
+t1351754235
+s8556
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MBProgressHUD.o
+t1351754235
+s121000
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReader.LinkFileList
+c00000000509221FA0000000000000E86
+t1351754234
+s3718
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReaderAppDelegate.o
+t1351754340
+s52840
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderConstants.o
+t1351754235
+s5052
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentPage.o
+t1351754235
+s70184
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentTile.o
+t1351754235
+s11476
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentView.o
+t1351754235
+s68396
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderDocument.o
+t1351754235
+s38308
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainPagebar.o
+t1351754235
+s97636
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainToolbar.o
+t1351754235
+s62708
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderScrollView.o
+t1351754235
+s38968
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbCache.o
+t1351754235
+s54376
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbFetch.o
+t1351754235
+s48840
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbQueue.o
+t1351754235
+s20196
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRender.o
+t1351754235
+s53164
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRequest.o
+t1351754235
+s48352
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbView.o
+t1351754236
+s44588
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbsView.o
+t1351754236
+s77612
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderViewController.o
+t1351756507
+s124356
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/RootViewController.o
+t1351754340
+s54444
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsMainToolbar.o
+t1351754236
+s52252
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsViewController.o
+t1351754236
+s89524
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/fileManager.o
+t1351754235
+s13448
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/main.o
+t1351754235
+s6328
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET.pdf
+c00000000501260840000000000052C98
+t1343381636
+s339096
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET副本
+c00000000501260840000000000052C98
+t1343381636
+s339096
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/TestPage.pdf
+c000000004FB18FD9000000000000DB76
+t1337036761
+s56182
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/test.pdf
+c000000004E7043FC0000000000002794
+t1315980284
+s10132
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/历年公务员考试试题真题.pdf
+c000000005012568200000000000E1776
+t1343379074
+s923510
+
+N/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m
+c000000005015FE7F000000000000015A
+t1343618687
+s346
+i<UIKit/UIKit.h>
+
+N/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch.gch
+t1351754235
+s15453392
+
+NMyPDFReader-Info.plist
+c000000005015FE7F000000000000038D
+t1343618687
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies373449306#373449306#0(0"0(0#1#0"8635253408#0"0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/CGPDFDocument.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.602585
+e373447035.653812
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/CGPDFDocument.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m373447035#373447035#0(0"0(0#0#75"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m8640695200#2163"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/CGPDFDocument.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/CGPDFDocument.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MBProgressHUD.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.593110
+e373447035.787619
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MBProgressHUD.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m373447035#373447035#0(0"0(0#0#75"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m8641653856#2163"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MBProgressHUD.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MBProgressHUD.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReaderAppDelegate.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447139.923650
+e373447140.028090
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReaderAppDelegate.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m373447139#373447140#0(0"0(0#0#84"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m8637927264#2181"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/MyPDFReaderAppDelegate.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReaderAppDelegate.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderConstants.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.614555
+e373447035.645955
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderConstants.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m373447035#373447035#0(0"0(0#0#77"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m8636778240#2167"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderConstants.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderConstants.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentPage.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.615566
+e373447035.719778
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentPage.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m8635546624#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentPage.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentPage.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentTile.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.646048
+e373447035.710823
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentTile.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m8633622592#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentTile.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentTile.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.653899
+e373447035.779291
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentView.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m8630664128#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderContentView.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderContentView.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderDocument.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.710913
+e373447035.805243
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderDocument.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m: In function '+[ReaderDocument isPDF:]':
+o/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m:156: warning: implicit declaration of function 'read'
+o/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m:165: warning: implicit declaration of function 'close'
+lSLF07#2@84"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m373447035#373447035#0(381"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m: In function '+[ReaderDocument isPDF:]':/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m:156: warning: implicit declaration of function 'read'/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m:165: warning: implicit declaration of function 'close'2(22@39"Implicit declaration of function 'read'373447035#118#131#0(6@76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m337673084#156#0#156#0#36"implicit declaration of function '*'0(22@40"Implicit declaration of function 'close'373447035#249#132#0(6@76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m337673084#165#0#165#0#36"implicit declaration of function '*'0(0#0#76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m8627949184#2165"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderDocument.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderDocument.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainPagebar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.719869
+e373447035.884221
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainPagebar.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m8626959200#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainPagebar.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainPagebar.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainToolbar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.779460
+e373447035.881334
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainToolbar.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m8618542464#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderMainToolbar.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderMainToolbar.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderScrollView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.787705
+e373447035.846206
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderScrollView.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m373447035#373447035#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m8617960032#2169"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderScrollView.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderScrollView.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbCache.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.805323
+e373447035.881195
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbCache.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m373447035#373447035#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m8641003744#2169"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbCache.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbCache.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbFetch.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.846290
+e373447035.927785
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbFetch.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m373447035#373447035#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m8635560544#2169"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbFetch.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbFetch.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbQueue.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.881408
+e373447035.944891
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbQueue.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m373447035#373447035#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m8633355712#2169"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbQueue.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbQueue.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRender.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.882193
+e373447035.967208
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRender.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m373447035#373447035#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m8630011040#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRender.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRender.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRequest.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.884299
+e373447035.952643
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRequest.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m373447035#373447035#0(0"0(0#0#80"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m8627628640#2173"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbRequest.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbRequest.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.944980
+e373447036.019928
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbView.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m373447035#373447036#0(0"0(0#0#77"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m8617920416#2167"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbView.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbView.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbsView.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.927878
+e373447036.045375
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbsView.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m373447035#373447036#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m8626623648#2169"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderThumbsView.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderThumbsView.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373449306.689023
+e373449307.079439
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderViewController.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m373449306#373449307#0(0"0(0#0#82"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m8649616352#2177"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ReaderViewController.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ReaderViewController.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/RootViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447139.924357
+e373447140.028306
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/RootViewController.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m373447139#373447140#0(0"0(0#0#80"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m8627801024#2173"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/RootViewController.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsMainToolbar.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.967296
+e373447036.051781
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsMainToolbar.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m373447035#373447036#0(0"0(0#0#79"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m8617710368#2171"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsMainToolbar.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsMainToolbar.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsViewController.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447036.020015
+e373447036.141896
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsViewController.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m373447036#373447036#0(0"0(0#0#82"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m8648080160#2177"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Sources/ThumbsViewController.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/ThumbsViewController.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/fileManager.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.546942
+e373447035.602497
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/fileManager.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m373447035#373447035#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m8642213952#2159"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Classes/fileManager.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/fileManager.o0#
+
+CCompileC build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/main.o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447035.544901
+e373447035.593025
+r1
+xCompileC
+xbuild/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/main.o
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m373447035#373447035#0(0"0(0#0#58"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m8648221568#2137"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/main.m -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib
+s373447034.284020
+e373447034.636164
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib373447034#373447034#0(0"0(0#0#66"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib13229641737437232#613"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MainWindow.nib /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib
+s373447034.284551
+e373447034.633512
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib373447034#373447034#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib8630511232#629"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/RootViewController.nib /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-057.png Graphics/AppIcon-057.png
+s373447034.287750
+e373447034.344747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/AppIcon-057.png
+xGraphics/AppIcon-057.png
+lSLF07#2@29"Copy Graphics/AppIcon-057.png373447034#373447034#0(0"0(0#0#76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-057.png8618382336#525"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-057.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-072.png Graphics/AppIcon-072.png
+s373447034.288297
+e373447034.344868
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/AppIcon-072.png
+xGraphics/AppIcon-072.png
+lSLF07#2@29"Copy Graphics/AppIcon-072.png373447034#373447034#0(0"0(0#0#76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-072.png8617817536#525"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-072.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/AppIcon-114.png Graphics/AppIcon-114.png
+s373447034.288729
+e373447034.344973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/AppIcon-114.png
+xGraphics/AppIcon-114.png
+lSLF07#2@29"Copy Graphics/AppIcon-114.png373447034#373447034#0(0"0(0#0#76"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-114.png8617478336#525"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/AppIcon-114.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/CET.pdf doc/CET.pdf
+s373447034.285052
+e373447034.545145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/CET.pdf
+xdoc/CET.pdf
+lSLF07#2@16"Copy doc/CET.pdf373447034#373447034#0(0"0(0#0#63"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET.pdf8629093920#512"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET.pdf /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/CET副本 doc/CET副本
+s373447034.285541
+e373447034.544518
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/CET副本
+xdoc/CET副本
+lSLF07#2@18"Copy doc/CET副本373447034#373447034#0(0"0(0#0#65"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET副本8627630976#514"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/CET副本 /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email.png Graphics/Reader-Email.png
+s373447034.345062
+e373447034.402879
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Email.png
+xGraphics/Reader-Email.png
+lSLF07#2@30"Copy Graphics/Reader-Email.png373447034#373447034#0(0"0(0#0#77"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email.png8649193888#526"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Email@2x.png Graphics/Reader-Email@2x.png
+s373447034.346961
+e373447034.377028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Email@2x.png
+xGraphics/Reader-Email@2x.png
+lSLF07#2@33"Copy Graphics/Reader-Email@2x.png373447034#373447034#0(0"0(0#0#80"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email@2x.png8648748992#529"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Email@2x.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N.png Graphics/Reader-Mark-N.png
+s373447034.349310
+e373447034.377118
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N.png
+xGraphics/Reader-Mark-N.png
+lSLF07#2@31"Copy Graphics/Reader-Mark-N.png373447034#373447034#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N.png8648379392#527"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N@2x.png Graphics/Reader-Mark-N@2x.png
+s373447034.351837
+e373447034.376930
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-N@2x.png
+xGraphics/Reader-Mark-N@2x.png
+lSLF07#2@34"Copy Graphics/Reader-Mark-N@2x.png373447034#373447034#0(0"0(0#0#81"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N@2x.png8648026688#530"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-N@2x.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y.png Graphics/Reader-Mark-Y.png
+s373447034.376297
+e373447034.416851
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y.png
+xGraphics/Reader-Mark-Y.png
+lSLF07#2@31"Copy Graphics/Reader-Mark-Y.png373447034#373447034#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y.png8647447840#527"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y@2x.png Graphics/Reader-Mark-Y@2x.png
+s373447034.377171
+e373447034.417913
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Mark-Y@2x.png
+xGraphics/Reader-Mark-Y@2x.png
+lSLF07#2@34"Copy Graphics/Reader-Mark-Y@2x.png373447034#373447034#0(0"0(0#0#81"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y@2x.png8647151168#530"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Mark-Y@2x.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print.png Graphics/Reader-Print.png
+s373447034.377648
+e373447034.418011
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Print.png
+xGraphics/Reader-Print.png
+lSLF07#2@30"Copy Graphics/Reader-Print.png373447034#373447034#0(0"0(0#0#77"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print.png8646967712#526"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Print@2x.png Graphics/Reader-Print@2x.png
+s373447034.378126
+e373447034.419501
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Print@2x.png
+xGraphics/Reader-Print@2x.png
+lSLF07#2@33"Copy Graphics/Reader-Print@2x.png373447034#373447034#0(0"0(0#0#80"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print@2x.png8646092128#529"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Print@2x.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs.png Graphics/Reader-Thumbs.png
+s373447034.402952
+e373447034.419300
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs.png
+xGraphics/Reader-Thumbs.png
+lSLF07#2@31"Copy Graphics/Reader-Thumbs.png373447034#373447034#0(0"0(0#0#78"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs.png8645899264#527"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs@2x.png Graphics/Reader-Thumbs@2x.png
+s373447034.416930
+e373447034.426322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/Reader-Thumbs@2x.png
+xGraphics/Reader-Thumbs@2x.png
+lSLF07#2@34"Copy Graphics/Reader-Thumbs@2x.png373447034#373447034#0(0"0(0#0#81"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs@2x.png8644282336#530"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/Graphics/Reader-Thumbs@2x.png /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/TestPage.pdf doc/TestPage.pdf
+s373447034.286420
+e373447034.375904
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/TestPage.pdf
+xdoc/TestPage.pdf
+lSLF07#2@21"Copy doc/TestPage.pdf373447034#373447034#0(0"0(0#0#68"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/TestPage.pdf8626751264#517"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/TestPage.pdf /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/test.pdf doc/test.pdf
+s373447034.285993
+e373447034.351770
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/test.pdf
+xdoc/test.pdf
+lSLF07#2@17"Copy doc/test.pdf373447034#373447034#0(0"0(0#0#64"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/test.pdf8627160256#513"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/test.pdf /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CCpResource build/Debug-iphonesimulator/MyPDFReader.app/历年公务员考试试题真题.pdf doc/历年公务员考试试题真题.pdf
+s373447034.286931
+e373447034.554941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyPDFReader.app/历年公务员考试试题真题.pdf
+xdoc/历年公务员考试试题真题.pdf
+lSLF07#2@46"Copy doc/历年公务员考试试题真题.pdf373447034#373447034#0(0"0(0#0#93"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/历年公务员考试试题真题.pdf8618573312#542"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/doc/历年公务员考试试题真题.pdf /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
+CGenerateDSYMFile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app.dSYM /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader
+s373449307.335589
+e373449307.454890
+r1
+xGenerateDSYMFile
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app.dSYM
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MyPDFReader.app.dSYM build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader373449307#373449307#0(0"0(0#0#107"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader8649080640#434"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app.dSYM0#
+
+CLd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader normal i386
+s373449307.079514
+e373449307.335510
+r1
+xLd
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader
+xnormal
+xi386
+lSLF07#2@112"Link /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader373449307#373449307#0(0"0(0#0#0"8640468224#1047"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -filelist /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/Objects-normal/i386/MyPDFReader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework ImageIO -framework MessageUI -framework QuartzCore -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/MyPDFReader0#
+
+CProcessInfoPlistFile /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Info.plist MyPDFReader-Info.plist
+s373447034.261645
+e373447034.283927
+r1
+xProcessInfoPlistFile
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Info.plist
+xMyPDFReader-Info.plist
+lSLF07#2@30"Process MyPDFReader-Info.plist373447034#373447034#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MyPDFReader-Info.plist8636747968#530"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyPDFReader-Info.plist -genpkginfo /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app/Info.plist0#
+
+CProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch.gch MyPDFReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s373447034.636258
+e373447035.544810
+r1
+xProcessPCH
+x/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch.gch
+xMyPDFReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MyPDFReader_Prefix.pch373447034#373447035#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MyPDFReader_Prefix.pch8618432608#2012"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-generated-files.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/MyPDFReader-project-headers.hmap -F/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/MyPDFReader.build/Debug-iphonesimulator/MyPDFReader.build/DerivedSources -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/MyPDFReader_Prefix.pch -o /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyPDFReader_Prefix-gwoiiatrguqwllaqmaetkhsstiwu/MyPDFReader_Prefix.pch.gch0#
+
+CTouch /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app
+s373449307.454960
+e373449307.456809
+r1
+xTouch
+x/Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app
+lSLF07#2@101"Touch /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app373449307#373449307#0(0"0(0#0#0"8648296192#308"    cd /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zhuxian/Documents/DJ/MyPDFReader/MyPDFReader/build/Debug-iphonesimulator/MyPDFReader.app0#
+
